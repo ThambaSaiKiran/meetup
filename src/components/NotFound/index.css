@@ -1,0 +1,10 @@
+.notFoundCont {
+  text-align: center;
+  width: 100vw;
+  padding-top: 30px;
+}
+
+.not-found {
+  height: 50vh;
+  width: 40vw;
+}
